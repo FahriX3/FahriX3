@@ -24,16 +24,16 @@ const fahri = {
   location : "Purwokerto, Indonesia 🇮🇩",
   role     : ["Full Stack Developer", "IoT Enthusiast", "Embedded Systems Researcher"],
 
-  currentlyBuilding : "IoT + Web-integrated systems with ESP32 & Next.js",
+  currentlyBuilding : "IoT + Web-integrated systems with ESP32 & Laravel",
   passion           : "Bridging the gap between software and hardware",
   philosophy        : "Engineering doesn't always go as planned — that's where the best lessons live.",
 
   techStack : {
-    languages  : ["C#", "Kotlin", "PHP", "C++", "JavaScript/TypeScript"],
-    frontend   : ["Next.js", "React", "HTML/CSS"],
-    backend    : ["Node.js", "PHP", "MySQL"],
-    embedded   : ["ESP32", "ESP8266", "Arduino", "AS608 Sensor"],
-    tools      : ["Git", "XAMPP", "VS Code", "Arduino IDE"],
+    languages  : ["C#", "Java", "Kotlin", "PHP", "C++"],
+    frameworks : ["Laravel", ".NET (API)", "HTML/CSS"],
+    backend    : ["Laravel", ".NET Web API", "PHP", "MySQL"],
+    embedded   : ["ESP32", "ESP8266", "Raspberry Pi", "Arduino", "AS608 Sensor"],
+    tools      : ["Docker", "Git", "XAMPP", "VS Code", "Arduino IDE"],
   },
 
   funFact : "I once converted 12V DC → 520V AC using mechanical relays. It worked. 😅⚡"
@@ -48,15 +48,14 @@ const fahri = {
 
 ### 💬 Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 🌐 Web & Frameworks
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -64,9 +63,11 @@ const fahri = {
 ### ⚙️ Embedded & IoT
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878A?style=for-the-badge&logo=arduino&logoColor=white)
 
 ### 🔧 Tools & Platforms
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
