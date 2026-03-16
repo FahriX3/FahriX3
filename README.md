@@ -32,7 +32,7 @@ const fahri = {
     languages  : ["C#", "Java", "Kotlin", "PHP", "C++"],
     frameworks : ["Laravel", ".NET (API)", "HTML/CSS"],
     backend    : ["Laravel", ".NET Web API", "PHP", "MySQL"],
-    embedded   : ["ESP32", "ESP8266", "Raspberry Pi", "Arduino", "AS608 Sensor"],
+    embedded   : ["ESP", "Raspberry Pi", "Arduino"],
     tools      : ["Docker", "Git", "XAMPP", "VS Code", "Arduino IDE"],
   },
 
@@ -61,8 +61,7 @@ const fahri = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### ⚙️ Embedded & IoT
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![ESP](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878A?style=for-the-badge&logo=arduino&logoColor=white)
 
