@@ -30,7 +30,7 @@ const fahri = {
 
   techStack : {
     languages  : ["C#", "Java", "Kotlin", "PHP", "C++"],
-    frameworks : ["Laravel", ".NET (API)", "HTML/CSS"],
+    frameworks : ["Laravel", ".NET", "HTML/CSS"],
     backend    : ["Laravel", ".NET Web API", "PHP", "MySQL"],
     embedded   : ["ESP", "Raspberry Pi", "Arduino"],
     tools      : ["Docker", "Git", "XAMPP", "VS Code", "Arduino IDE"],
@@ -94,7 +94,7 @@ const fahri = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FahriX3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FahriX3&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahriX3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
 </div>
